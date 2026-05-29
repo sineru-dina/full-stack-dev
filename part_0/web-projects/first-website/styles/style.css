@@ -1,0 +1,43 @@
+/* p {
+    color: red;
+    width: 1000px;
+    border: 1px solid black
+} */
+
+html {
+    font-size: 10px;
+    font-family: "Roboto", sans-serif;
+    background-color: #00FFFF;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #218acf;
+    text-shadow: 3px 3px 1px rgb(6, 53, 85);
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+body {
+    display: block;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: beige;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}

@@ -1,0 +1,8 @@
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Local font embed snippet
+part_0/web-projects/first-website/styles/fonts_embed_code.txt
